@@ -18,6 +18,4 @@ See [here](https://github.com/d-j-k/puntseq/tree/master/analysis) for the detail
 Check out the [project website](https://www.puntseq.co.uk/) and follow us on [Twitter](https://twitter.com/puntseq) for more updates!
 
 
-Overview of this study's experimental design:
-
 ![alt text](https://github.com/d-j-k/puntseq/blob/master/figure2.png)
